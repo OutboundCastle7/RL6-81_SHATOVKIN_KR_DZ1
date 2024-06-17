@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at DZ1_Quartus_D-Trigger.v(3): object "Q" differs only in case from object "q" in the same scope File: E:/3k-6s/CUIMP/DZ1/DZ1_Quartus/DZ1_Quartus_D-Trigger.v Line: 3
+Warning (10268): Verilog HDL information at DZ1_Quartus_Counter.v(6): always construct contains both blocking and non-blocking assignments File: E:/3k-6s/CUIMP/DZ1/DZ1_Quartus/DZ1_Quartus_Counter.v Line: 6
